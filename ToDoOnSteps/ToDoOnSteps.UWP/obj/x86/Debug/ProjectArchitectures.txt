@@ -1,1 +1,0 @@
-S:\Cristi\App-Xamarin\ToDoOnSteps\ToDoOnSteps-ex4\ToDoOnSteps\ToDoOnSteps.UWP\ToDoOnSteps.UWP.csproj;x86
